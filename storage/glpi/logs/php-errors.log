@@ -1,0 +1,49 @@
+[2025-10-02 14:36:20] glpi.WARNING:   *** Test logger
+[2025-10-02 14:36:20] glpi.CRITICAL:   *** Error thrown while running command "{command}". Message: "{message}"
+  Backtrace :
+  ...nsole/Database/AbstractConfigureCommand.php:241 
+  ./src/Glpi/Console/Database/InstallCommand.php:183 Glpi\Console\Database\AbstractConfigureCommand->configureDatabase()
+  ./vendor/symfony/console/Command/Command.php:326   Glpi\Console\Database\InstallCommand->execute()
+  ./vendor/symfony/console/Application.php:1096      Symfony\Component\Console\Command\Command->run()
+  ./src/Glpi/Console/Application.php:320             Symfony\Component\Console\Application->doRunCommand()
+  ./vendor/symfony/console/Application.php:324       Glpi\Console\Application->doRunCommand()
+  ./vendor/symfony/console/Application.php:175       Symfony\Component\Console\Application->doRun()
+  ./bin/console:144                                  Symfony\Component\Console\Application->run()
+
+[2025-10-02 14:36:22] glpi.WARNING:   *** Test logger
+[2025-10-02 14:36:22] glpi.CRITICAL:   *** Error thrown while running command "{command}". Message: "{message}"
+  Backtrace :
+  ...nsole/Database/AbstractConfigureCommand.php:241 
+  ./src/Glpi/Console/Database/InstallCommand.php:183 Glpi\Console\Database\AbstractConfigureCommand->configureDatabase()
+  ./vendor/symfony/console/Command/Command.php:326   Glpi\Console\Database\InstallCommand->execute()
+  ./vendor/symfony/console/Application.php:1096      Symfony\Component\Console\Command\Command->run()
+  ./src/Glpi/Console/Application.php:320             Symfony\Component\Console\Application->doRunCommand()
+  ./vendor/symfony/console/Application.php:324       Glpi\Console\Application->doRunCommand()
+  ./vendor/symfony/console/Application.php:175       Symfony\Component\Console\Application->doRun()
+  ./bin/console:144                                  Symfony\Component\Console\Application->run()
+
+[2025-10-02 14:36:23] glpi.WARNING:   *** Test logger
+[2025-10-02 14:36:23] glpi.CRITICAL:   *** Error thrown while running command "{command}". Message: "{message}"
+  Backtrace :
+  ...nsole/Database/AbstractConfigureCommand.php:241 
+  ./src/Glpi/Console/Database/InstallCommand.php:183 Glpi\Console\Database\AbstractConfigureCommand->configureDatabase()
+  ./vendor/symfony/console/Command/Command.php:326   Glpi\Console\Database\InstallCommand->execute()
+  ./vendor/symfony/console/Application.php:1096      Symfony\Component\Console\Command\Command->run()
+  ./src/Glpi/Console/Application.php:320             Symfony\Component\Console\Application->doRunCommand()
+  ./vendor/symfony/console/Application.php:324       Glpi\Console\Application->doRunCommand()
+  ./vendor/symfony/console/Application.php:175       Symfony\Component\Console\Application->doRun()
+  ./bin/console:144                                  Symfony\Component\Console\Application->run()
+
+[2025-10-02 14:36:25] glpi.WARNING:   *** Test logger
+[2025-10-02 14:36:25] glpi.CRITICAL:   *** Error thrown while running command "{command}". Message: "{message}"
+  Backtrace :
+  ...nsole/Database/AbstractConfigureCommand.php:241 
+  ./src/Glpi/Console/Database/InstallCommand.php:183 Glpi\Console\Database\AbstractConfigureCommand->configureDatabase()
+  ./vendor/symfony/console/Command/Command.php:326   Glpi\Console\Database\InstallCommand->execute()
+  ./vendor/symfony/console/Application.php:1096      Symfony\Component\Console\Command\Command->run()
+  ./src/Glpi/Console/Application.php:320             Symfony\Component\Console\Application->doRunCommand()
+  ./vendor/symfony/console/Application.php:324       Glpi\Console\Application->doRunCommand()
+  ./vendor/symfony/console/Application.php:175       Symfony\Component\Console\Application->doRun()
+  ./bin/console:144                                  Symfony\Component\Console\Application->run()
+
+[2025-10-02 14:36:27] glpi.WARNING:   *** Test logger
